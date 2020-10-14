@@ -11,7 +11,7 @@ function Landing() {
   return (
     <div id="page-landing">
       <div className="content-wrapper">
-        <img src={logoImg} alt="Happy"/>
+        <img src={logoImg} alt="Happy" />
 
         <main>
           <h1>Leve felicidade ao mundo</h1>
