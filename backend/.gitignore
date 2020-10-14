@@ -4,6 +4,8 @@ node_modules/
 build/
 temp/
 coverage/
+uploads/
 .env
 ormconfig.json
 dist
+database/*.sqlite
