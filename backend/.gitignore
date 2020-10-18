@@ -8,4 +8,4 @@ uploads/
 .env
 ormconfig.json
 dist
-database/*.sqlite
+database/
